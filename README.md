@@ -10,6 +10,10 @@ This project is the culmination of my Bachelor's internship at [the Computer Sci
 ## Data
 
 The dataset used in this project includes various medical attributes relevant to diabetes. It is located in the `datasets/` directory.
+## Power BI Dashboard
+//I will deploy soon either the dashboard and the models online
+To visualize the insights and analytics from our data, we have created an interactive Power BI dashboard. You can view the dashboard [here](link-to-dashboard). For a local view, please download the `DashboardProjet.pbix` file from the `dashboard-PowerBI/` directory and open it with Power BI Desktop.
+
 
 
 ## Acknowledgments
